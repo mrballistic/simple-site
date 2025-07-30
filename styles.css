@@ -5,6 +5,13 @@
     box-sizing: border-box;
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
 body {
     background: #87CFEB;
     background: linear-gradient(0deg, #87CFEB, #1E3D72);
@@ -286,11 +293,3 @@ p {
     }
 }
 
-/* Safari-specific fix - hide clouds if they're causing background issues */
-@media not all and (min-resolution:.001dpcm) {
-    @supports (-webkit-appearance:none) {
-        .clouds {
-            display: none !important;
-        }
-    }
-}
