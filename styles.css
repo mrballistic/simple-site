@@ -6,8 +6,8 @@
 }
 
 body {
-    background-color: #4682B4; 
-    background: linear-gradient(0deg, #87CEEB, #1e3c72);
+    background: #87CFEB;
+    background: linear-gradient(0deg, #87CFEB, #1E3D72);
     font-family: Arial, sans-serif;
     color: white;
     height: 100vh;
@@ -20,7 +20,6 @@ body {
     position: relative;
     overflow: hidden;
 }
-
 
 .container {
     text-align: center;
