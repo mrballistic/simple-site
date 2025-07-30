@@ -80,9 +80,9 @@ p {
 }
 
 .contact-btn:hover {
-    background: -webkit-linear-gradient(45deg, #e6000f, #e6721a, #e6e600, #1ae61a, #1a1ae6, #431875, #851ae6);
-    background: -moz-linear-gradient(45deg, #e6000f, #e6721a, #e6e600, #1ae61a, #1a1ae6, #431875, #851ae6);
-    background: linear-gradient(45deg, #e6000f, #e6721a, #e6e600, #1ae61a, #1a1ae6, #431875, #851ae6);
+    background: -webkit-linear-gradient(45deg, #b10b16, #e6721a, #e6e600, #34a634, #3b3bc6, #431875, #851ae6);
+    background: -moz-linear-gradient(45deg, #b10b16, #e6721a, #e6e600, #34a634, #3b3bc6, #431875, #851ae6);
+    background: linear-gradient(45deg, #b10b16, #e6721a, #e6e600, #34a634, #3b3bc6, #431875, #851ae6);
     background-size: 400% 400%;
     -webkit-animation: rainbow-throb 0.8s ease-in-out infinite, throb-scale 1s ease-in-out infinite;
     animation: rainbow-throb 0.8s ease-in-out infinite, throb-scale 1s ease-in-out infinite;
