@@ -13,6 +13,7 @@ html, body {
 
 
 body {
+    transform: translateZ(0);
     background: #87CFEB;
     background: linear-gradient(0deg, #87CFEB, #1E3D72);
     font-family: Arial, sans-serif;
