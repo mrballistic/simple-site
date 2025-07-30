@@ -11,11 +11,13 @@ A beautiful, interactive "Hello World" website featuring a sky scene with animat
 - **Rainbow Button** - "Contact Me" button with animated rainbow gradient on hover
 - **Glassmorphism Design** - Semi-transparent container with backdrop blur effect
 - **Responsive Design** - Works on various screen sizes
-- **Cross-Browser Compatible** - Optimized for Chrome, Firefox, and Safari
+- **Cross-Browser Compatible** - Works perfectly across Chrome, Firefox, and Safari
 
 ## Demo 🎮
 
-Simply open `index.html` in your web browser to see the site in action. For the best experience with all animations, use Chrome or Firefox.
+🌐 **[Live Demo](https://simple-site-rose.vercel.app/)** - See the site in action!
+
+Simply open `index.html` in your web browser to run it locally. All modern browsers (Chrome, Firefox, Safari) now support the full experience!
 
 ## Files 📁
 
@@ -27,7 +29,7 @@ Simply open `index.html` in your web browser to see the site in action. For the 
 
 - ✅ **Chrome** - Full experience with all features
 - ✅ **Firefox** - Full experience with all features  
-- ⚠️ **Safari** - Some gradient features may not display (clouds are hidden as fallback)
+- ✅ **Safari** - Full experience with all features (hardware acceleration enabled)
 
 ## Customization 🎨
 
@@ -48,8 +50,9 @@ Simply replace `profile-square-1.jpg` with your own square image file.
 - Pure CSS animations (no JavaScript required)
 - CSS Grid and Flexbox for layout
 - CSS gradients for all visual effects
+- Hardware acceleration for smooth Safari performance
 - Vendor prefixes for maximum compatibility
-- Optimized for performance
+- Optimized for performance across all browsers
 
 ## Installation 🚀
 
